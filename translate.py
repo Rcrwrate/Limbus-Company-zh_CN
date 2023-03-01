@@ -1,5 +1,5 @@
 from Lib.Translate import Bing
-from Lib.Network import Network
+# from Lib.Network import Network
 from flask import Flask, request
 
 
