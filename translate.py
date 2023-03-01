@@ -1,5 +1,5 @@
 from Lib.Translate import Bing
-# from Lib.Network import Network
+from Lib.Network import Network
 from flask import Flask, request
 
 
@@ -14,6 +14,9 @@ app = Flask(__name__)
 @app.route("/")
 def index():
     text = request.args["text"]
+    for i in ["Lv"]:
+        if i in text:
+            return text
     try:
         int(text)
         return text
