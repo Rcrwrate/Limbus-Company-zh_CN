@@ -16,6 +16,8 @@
 
 ~~中文支持依旧有不小的问题，会出现字体缺失的问题~~
 
+目前绝大部分字体已经显示正常
+
 ## 如何安装
 
 1. 请先自行安装[BepInEx](https://github.com/BepInEx/BepInEx/releases)
@@ -30,7 +32,9 @@
 >
 > XUnity.AutoTranslator-BepInEx-IL2CPP-[VERSION].zip
 
-3. 下载XUnity.AutoTranslator提供的字体包，TMP_Font_AssetBundles.zip，解压到**BepInEx目录内!目录内!**
+~~3. 下载XUnity.AutoTranslator提供的字体包，TMP_Font_AssetBundles.zip，解压到**BepInEx目录内!目录内!**~~
+
+3. 下载release中提供的字体，解压到**BepInEx目录内!目录内!
 
 4. 直接左上角download ZIP，解压到**BepInEx目录内!目录内!**
 
