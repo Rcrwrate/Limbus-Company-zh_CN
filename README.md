@@ -42,7 +42,7 @@ please add me to you friend
 
 ~~3. 下载XUnity.AutoTranslator提供的字体包，TMP_Font_AssetBundles.zip，解压到**BepInEx目录内!目录内!**~~
 
-3. 下载release中提供的字体[RiccaV13](https://github.com/Rcrwrate/Limbus-Company-zh_CN/releases/tag/v0.0)，解压到**BepInEx目录内!目录内!
+3. 下载release中提供的字体[RiccaV13](https://github.com/Rcrwrate/Limbus-Company-zh_CN/releases/tag/v0.0)，直接放在**BepInEx目录内!目录内!**
 
 4. 直接左上角download ZIP，解压到**BepInEx目录内!目录内!**
 
