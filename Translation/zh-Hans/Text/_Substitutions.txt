@@ -108,3 +108,4 @@ UID=UID
 Main Story=主要故事
 Dealt=输出
 Taken=受到伤害
+Inflict 3 Defense Down on enemies affected by Tremor’s burst.\n\n=对受震颤爆发影响的敌人造成3点防御下降。\n\n

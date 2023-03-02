@@ -25,3 +25,4 @@ K Corp.=K公司
 Abnormalities=异想体
 Charon=卡戎
 Lobotomy Corp=脑叶公司
+All Allies=所有队友
