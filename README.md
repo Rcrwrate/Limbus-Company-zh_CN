@@ -18,6 +18,14 @@
 
 目前绝大部分字体已经显示正常
 
+please add me to you friend
+
+快， 速速加我好友
+
+`N365243599`
+
+![image](https://user-images.githubusercontent.com/46920034/222309610-4b72d7be-12d7-4979-8d7f-41a2831c1899.png)
+
 ## 如何安装
 
 1. 请先自行安装[BepInEx](https://github.com/BepInEx/BepInEx/releases)
@@ -34,7 +42,7 @@
 
 ~~3. 下载XUnity.AutoTranslator提供的字体包，TMP_Font_AssetBundles.zip，解压到**BepInEx目录内!目录内!**~~
 
-3. 下载release中提供的字体，解压到**BepInEx目录内!目录内!
+3. 下载release中提供的字体[RiccaV13](https://github.com/Rcrwrate/Limbus-Company-zh_CN/releases/tag/v0.0)，解压到**BepInEx目录内!目录内!
 
 4. 直接左上角download ZIP，解压到**BepInEx目录内!目录内!**
 
