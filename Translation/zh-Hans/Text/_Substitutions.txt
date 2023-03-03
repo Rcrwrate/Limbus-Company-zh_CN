@@ -109,3 +109,17 @@ Main Story=主要故事
 Dealt=输出
 Taken=受到伤害
 Inflict 3 Defense Down on enemies affected by Tremor’s burst.\n\n=对受震颤爆发影响的敌人造成3点防御下降。\n\n
+
+
+
+A Dark Forest=黑森林
+Selva Oscura=黑森林
+Panther=豹
+I don’t get it. This is what Lion struggled against?=真是不能理解。狮子居然被这帮人打败了。
+W-Whoa, hang on!=喂，喂等一下啊！
+I know this is kinda weird coming from someone you were just fighting, but I’m pretty sure we can talk this o—=虽然直到刚才我们还在战斗，这么说可能有点奇怪，但是我们可以聊——
+This…=这真是......
+…is unideal.=不理想......
+Haa… I knew it was a ridiculous idea to put up a fight against them.=哈......我从一开始就觉得这是场没有意义的战斗。
+Are y’all kidding? I haven’t even…=你们在开玩笑吗？我还挺感兴......
+<What the hell is going on? You said you’ll fight in my stead!>=<怎么会变成这样？不是说要代替我战斗吗!>
