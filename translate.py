@@ -22,6 +22,12 @@ def index():
         return text
     except:
         pass
+    if len(text) == 10:
+        try:
+            int(text[1:])
+            return text
+        except:
+            pass
     try:
         return B.translate(text, to)
     except:
