@@ -17,3 +17,4 @@ STEAM=STEAM
 EXP=EXP
 EX Cleared=EX通关
 EX Objectives=EX目标
+Clear within 10 turns=10 回合内通关
