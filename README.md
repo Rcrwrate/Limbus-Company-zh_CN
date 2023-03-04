@@ -4,7 +4,7 @@
 
 现在可以使用[都市零协会汉化组](https://github.com/Bright1192/LimbusLocalize.git)提供的汉化
 
-[零协的汉化自动转换工具仓库](https://github.com/Rcrwrate/Limbus-Company-Work-Dataset)
+[针对零协汉化的自动转换工具仓库](https://github.com/Rcrwrate/Limbus-Company-Work-Dataset)
 
 ## 和零协插件区别
 
