@@ -7,13 +7,9 @@ ver = {
     "forcemsg": "本次为强制更新，不更新会严重影响使用",
     "file": {
         "update.py": 1.0,
-        "translate.py": 1.0
+        "translate.py": 1.1
     }
 }
 
 with open("version.json", "w") as f:
     json.dump(ver, f)
-
-for i in ver["file"]:
-    # if i["ver"]:
-    print(i)

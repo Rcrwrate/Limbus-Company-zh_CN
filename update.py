@@ -4,7 +4,7 @@ import os
 VER = {
     "version": 0.5,
     "file": {
-        "update.py": 1.0,
+        "update.py": 1.1,
         "translate.py": 1.0
     }
 }
@@ -49,7 +49,6 @@ def save(fin_dict):
 
 
 def change(ori_dict):
-    s = Network({})
     r = s.get(API_JSON).json()
     for i in r:
         ori_dict[i] = r[i]
