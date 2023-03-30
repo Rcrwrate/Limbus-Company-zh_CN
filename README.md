@@ -6,7 +6,7 @@ XUnity.AutoTranslator的全语种兼容
 
 `translate.py`
 
-[针对零协汉化的自动转换工具仓库](https://github.com/Rcrwrate/Limbus-Company-Work-Dataset)
+[前方左转零协汉化](https://github.com/Bright1192/LimbusLocalize)
 
 # 免责申明
 
